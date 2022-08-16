@@ -1,7 +1,8 @@
 #principale {
 	width: 1200px;
 	margin: auto;
+	background-color: white;
 }
 body {
-	background-color: slategray 1;
+	background-color: lightcyan;
 }
