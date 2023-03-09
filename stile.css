@@ -1,7 +1,8 @@
 #principale {
-    width: 1200px;
+    width: 1000px;
     margin: auto;
     background-color: lightblue;
+    font-size: large;
 }
 body {
     background-color: lightcyan;
