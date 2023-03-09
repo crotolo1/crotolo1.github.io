@@ -1,6 +1,8 @@
 #principale {
-	width: 1200px;
-	margin: auto;
-	background-color: antiquewhite;
+    width: 1200px;
+    margin: auto;
+    background-color: lightblue;
 }
-
+body {
+    background-color: lightcyan;
+}
