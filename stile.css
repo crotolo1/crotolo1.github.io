@@ -4,6 +4,11 @@
     background-color: lightblue;
     font-size: large;
 }
+#secondo {
+    width: 1000px;
+    margin: auto;
+    font-size: large;
+}
 body {
     background-color: lightcyan;
 }
