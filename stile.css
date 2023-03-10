@@ -1,13 +1,13 @@
 #principale {
-    width: 1500px;
+    width: 800px;
     margin: auto;
     background-color: lightblue;
     font-size: xx-large;
 }
 #secondo {
-    width: 1500px;
+    width: 800px;
     margin: auto;
-    font-size: large;
+    font-size: xx-large;
 }
 body {
     background-color: lightcyan;
