@@ -1,12 +1,17 @@
+
 #principale {
-    width: 1000px;
+    width: 1300px;
     margin: auto;
     background-color: lightblue;
     font-size: xx-large;
 }
 #secondo {
-    width: 1000px;
+    width: 1300px;
     margin: auto;
+    font-size: xx-large;
+}
+#elenco {
+    margin-left: 50px;
     font-size: xx-large;
 }
 body {
